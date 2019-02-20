@@ -1,4 +1,4 @@
-# Bash script for automatic installation proxy server based on Squid3
+# Bash script for automatic installation proxy server on OS Debian 
 
 Script have 6 income parameters: 
 
@@ -14,4 +14,4 @@ Script have 6 income parameters:
 
 6)PROXY_PASSWORD;
 
-Example for use ./squid3_debian.sh root 10.10.10.10 ygW65erGDREsh0 6128 squiduser squidpass  
+Example for use ./squid3_debian.sh root 10.10.10.10 ygW65erGDREsh0 6128 proxyuser proxypass  
