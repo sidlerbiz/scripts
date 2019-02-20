@@ -15,5 +15,6 @@ Script have 6 income parameters:
 
 6)PROXY_PASSWORD;
 
-Before use, need to install utility sshpass with command "apt-get install sshpass" 
-Example for use ./squid3_debian.sh root 10.10.10.10 ygW65erGDREsh0 6128 proxyuser proxypass  
+Before use, need to install utility sshpass "apt-get install sshpass"
+
+Example ./squid3_debian.sh root 10.10.10.10 ygW65erGDREsh0 6128 proxyuser proxypass  
