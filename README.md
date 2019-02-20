@@ -1,4 +1,5 @@
-# Bash script for automatic installation proxy server on OS Debian 
+# Bash script for automatic installation proxy server on OS Debian
+#Information for DAXX#
 
 Script have 6 income parameters: 
 
